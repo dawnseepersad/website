@@ -25,7 +25,7 @@ title = "Dawn Seepersad"
   description = "Landing Page"
   bio = "Economic Assessment of Risks in Maritime Navigation.  \nPhD candidate Geomatics Engineering."
   avatar = "dawn.jpeg"
-  favicon = "img/favicon.png"
+  favicon = "favicon.png"
   error404 = "There is no such page."
 
   [params.contact]
